@@ -8,5 +8,3 @@
 * Machine Learning
 * Data Science
 * Fullstack Development
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jannikobenhoff&layout=compact">
