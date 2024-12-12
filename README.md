@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannikobenhoff" alt="jannikobenhoff" /> </p>
 
 ## :rocket: Latest projects
-* Currently working on autonomous AI web agents (Typescript, Flutter)
+* [MedBuddy](https://www.mymedbuddy.de/) (Flutter)
+* Autonomous AI web agents (Typescript, Flutter)
 * [TokTok Countdown](https://apps.apple.com/za/app/toktok-countdown/id6670298871?platform=iphone) (Flutter, Swift)
 * [reWord](https://apps.apple.com/us/app/reword/id1590318154?platform=iphone) (Flutter)
 * [plailist.io](https://plailist.io/) (Flutter, Python)
