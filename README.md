@@ -6,7 +6,7 @@
 ## :rocket: Latest projects
 * [JetShift](https://www.jet-shift.com/) (Flutter)
 * [MedBuddy](https://www.mymedbuddy.de/) (Flutter)
-* pvgispy - An interface for the PVGIS API by the EU Science Hub. (Python)
+* [pvgispy](https://github.com/jannikobenhoff/pvgispy) - An interface for the PVGIS API by the EU Science Hub. (Python)
 * Autonomous AI web agents (Typescript, Flutter)
 * [TokTok Countdown](https://apps.apple.com/za/app/toktok-countdown/id6670298871?platform=iphone) (Flutter, Swift)
 * [reWord](https://apps.apple.com/us/app/reword/id1590318154?platform=iphone) (Flutter)
