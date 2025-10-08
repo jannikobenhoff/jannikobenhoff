@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannikobenhoff" alt="jannikobenhoff" /> </p>
 
 ## :rocket: Latest projects
+* [CliniCase](https://www.clini-case.de/) (NextJS/Typescript/React)
 * [JetShift](https://www.jet-shift.com/) (Flutter)
 * [MedBuddy](https://www.mymedbuddy.de/) (Flutter)
 * [pvgispy](https://github.com/jannikobenhoff/pvgispy) - An interface for the PVGIS API by the EU Science Hub. (Python)
