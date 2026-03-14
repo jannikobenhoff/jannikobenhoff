@@ -16,7 +16,10 @@
 * [Solarplus](https://www.solarplus.pro/) (Flutter, Python)
 
 ## :computer: Technologies I Love
+* React
+* Typescript
 * Flutter
 * Machine Learning
 * Data Science
 * Fullstack Development
+* Signal Processing
