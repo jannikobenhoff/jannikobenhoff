@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannikobenhoff" alt="jannikobenhoff" /> </p>
 
 ## :rocket: Latest projects
+* [Pieced](https://www.pieced.app/) (Expo/React-Native/Typescript)
 * [CliniCase](https://www.clini-case.de/) (NextJS/Typescript/React)
 * [JetShift](https://www.jet-shift.com/) (Flutter)
 * [MedBuddy](https://www.mymedbuddy.de/) (Flutter)
@@ -16,9 +17,9 @@
 * [Solarplus](https://www.solarplus.pro/) (Flutter, Python)
 
 ## :computer: Technologies I Love
-* React
 * Typescript
-* Flutter
+* Flutter/Dart
+* React
 * Machine Learning
 * Data Science
 * Fullstack Development
