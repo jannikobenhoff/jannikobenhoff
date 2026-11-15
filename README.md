@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannikobenhoff" alt="jannikobenhoff" /> </p>
 
 ## :rocket: Latest projects
+* [Clini](https://www.tryclini.com/) (React-Native/Typescript/Flutter)
 * [Pieced](https://www.pieced.app/) (Expo/React-Native/Typescript)
 * [CliniCase](https://www.clini-case.de/) (NextJS/Typescript/React)
 * [JetShift](https://www.jet-shift.com/) (Flutter)
